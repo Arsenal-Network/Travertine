@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/travertine-api.iml" filepath="$PROJECT_DIR$/api/travertine-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap/travertine-bootstrap.iml" filepath="$PROJECT_DIR$/bootstrap/travertine-bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/travertine-chat.iml" filepath="$PROJECT_DIR$/chat/travertine-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/travertine-config.iml" filepath="$PROJECT_DIR$/config/travertine-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event/travertine-event.iml" filepath="$PROJECT_DIR$/event/travertine-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log/travertine-log.iml" filepath="$PROJECT_DIR$/log/travertine-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log4j/travertine-log4j.iml" filepath="$PROJECT_DIR$/log4j/travertine-log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/travertine-module.iml" filepath="$PROJECT_DIR$/module/travertine-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/cmd-alert/travertine-module-cmd-alert.iml" filepath="$PROJECT_DIR$/module/cmd-alert/travertine-module-cmd-alert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/cmd-find/travertine-module-cmd-find.iml" filepath="$PROJECT_DIR$/module/cmd-find/travertine-module-cmd-find.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/cmd-list/travertine-module-cmd-list.iml" filepath="$PROJECT_DIR$/module/cmd-list/travertine-module-cmd-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/cmd-send/travertine-module-cmd-send.iml" filepath="$PROJECT_DIR$/module/cmd-send/travertine-module-cmd-send.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/cmd-server/travertine-module-cmd-server.iml" filepath="$PROJECT_DIR$/module/cmd-server/travertine-module-cmd-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/reconnect-yaml/travertine-module-reconnect-yaml.iml" filepath="$PROJECT_DIR$/module/reconnect-yaml/travertine-module-reconnect-yaml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/native/travertine-native.iml" filepath="$PROJECT_DIR$/native/travertine-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travertine-parent.iml" filepath="$PROJECT_DIR$/travertine-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protocol/travertine-protocol.iml" filepath="$PROJECT_DIR$/protocol/travertine-protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/travertine-proxy.iml" filepath="$PROJECT_DIR$/proxy/travertine-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/query/travertine-query.iml" filepath="$PROJECT_DIR$/query/travertine-query.iml" />
+    </modules>
+  </component>
+</project>

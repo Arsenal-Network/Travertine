@@ -1,0 +1,5 @@
+name: cmd_list
+main: net.md_5.bungee.module.cmd.list.PluginList
+version: git:cmd_list:1.14-SNAPSHOT:a21445c:unknown
+description: Provides the glist command
+author: WaterfallMC

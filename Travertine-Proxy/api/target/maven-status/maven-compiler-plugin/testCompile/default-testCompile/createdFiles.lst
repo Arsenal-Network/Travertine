@@ -1,0 +1,6 @@
+net\md_5\bungee\util\UUIDTest.class
+net\md_5\bungee\util\AddressParseTest.class
+net\md_5\bungee\api\ServerConnectRequestTest.class
+io\github\waterfallmc\waterfall\utils\LowMemorySetTest.class
+net\md_5\bungee\api\ServerConnectRequestTest$1.class
+net\md_5\bungee\util\CaseInsensitiveTest.class

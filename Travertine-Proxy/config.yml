@@ -1,0 +1,47 @@
+connection_throttle_limit: 3
+online_mode: true
+log_commands: false
+network_compression_threshold: 256
+listeners:
+- query_port: 25565
+  motd: '&1Another Bungee server'
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - lobby
+  bind_local_address: true
+  host: 0.0.0.0:25565
+  max_players: 1
+  tab_size: 60
+  force_default_server: false
+connection_throttle: 4000
+groups:
+  md_5:
+  - admin
+log_pings: true
+ip_forward: true
+prevent_proxy_connections: false
+forge_support: true
+stats: cf44cc2d-624c-4052-95b9-1d750e3a1f5b
+disabled_commands:
+- disabledcommandhere
+timeout: 30000
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+servers:
+  lobby:
+    motd: '&1Just another Travertine - Forced Host'
+    address: localhost:25566
+    restricted: false
+player_limit: -1

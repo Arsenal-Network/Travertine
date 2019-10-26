@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="travertine-api" />
+        <module name="travertine-bootstrap" />
+        <module name="travertine-chat" />
+        <module name="travertine-config" />
+        <module name="travertine-event" />
+        <module name="travertine-log" />
+        <module name="travertine-log4j" />
+        <module name="travertine-module-cmd-alert" />
+        <module name="travertine-module-cmd-find" />
+        <module name="travertine-module-cmd-list" />
+        <module name="travertine-module-cmd-send" />
+        <module name="travertine-module-cmd-server" />
+        <module name="travertine-module-reconnect-yaml" />
+        <module name="travertine-native" />
+        <module name="travertine-protocol" />
+        <module name="travertine-proxy" />
+        <module name="travertine-query" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="travertine-api" target="1.8" />
+      <module name="travertine-bootstrap" target="1.6" />
+      <module name="travertine-chat" target="1.8" />
+      <module name="travertine-config" target="1.8" />
+      <module name="travertine-event" target="1.8" />
+      <module name="travertine-log" target="1.8" />
+      <module name="travertine-log4j" target="1.8" />
+      <module name="travertine-module" target="1.8" />
+      <module name="travertine-module-cmd-alert" target="1.8" />
+      <module name="travertine-module-cmd-find" target="1.8" />
+      <module name="travertine-module-cmd-list" target="1.8" />
+      <module name="travertine-module-cmd-send" target="1.8" />
+      <module name="travertine-module-cmd-server" target="1.8" />
+      <module name="travertine-module-reconnect-yaml" target="1.8" />
+      <module name="travertine-native" target="1.8" />
+      <module name="travertine-parent" target="1.8" />
+      <module name="travertine-protocol" target="1.8" />
+      <module name="travertine-proxy" target="1.8" />
+      <module name="travertine-query" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

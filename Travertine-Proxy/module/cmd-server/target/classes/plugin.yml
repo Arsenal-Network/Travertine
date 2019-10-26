@@ -1,0 +1,5 @@
+name: cmd_server
+main: net.md_5.bungee.module.cmd.server.PluginServer
+version: git:cmd_server:1.14-SNAPSHOT:a21445c:unknown
+description: Provides the server command
+author: WaterfallMC

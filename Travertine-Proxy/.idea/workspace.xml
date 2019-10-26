@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13e36304-7dfa-4721-a09a-f008c681ea5b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/log4j/target/" />
+    <ignored path="$PROJECT_DIR$/module/target/" />
+    <ignored path="$PROJECT_DIR$/event/target/" />
+    <ignored path="$PROJECT_DIR$/query/target/" />
+    <ignored path="$PROJECT_DIR$/log/target/" />
+    <ignored path="$PROJECT_DIR$/module/cmd-server/target/" />
+    <ignored path="$PROJECT_DIR$/module/cmd-find/target/" />
+    <ignored path="$PROJECT_DIR$/module/reconnect-yaml/target/" />
+    <ignored path="$PROJECT_DIR$/bootstrap/target/" />
+    <ignored path="$PROJECT_DIR$/config/target/" />
+    <ignored path="$PROJECT_DIR$/module/cmd-list/target/" />
+    <ignored path="$PROJECT_DIR$/module/cmd-alert/target/" />
+    <ignored path="$PROJECT_DIR$/chat/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/native/target/" />
+    <ignored path="$PROJECT_DIR$/proxy/target/" />
+    <ignored path="$PROJECT_DIR$/api/target/" />
+    <ignored path="$PROJECT_DIR$/module/cmd-send/target/" />
+    <ignored path="$PROJECT_DIR$/protocol/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/Protocol.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="100" column="48" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/query/src/main/java/net/md_5/bungee/query/RemoteQuery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/BungeeCord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="354" column="29" selection-start-line="354" selection-start-column="29" selection-end-line="354" selection-end-column="29" />
+              <folding>
+                <element signature="e#16223#16224#0" expanded="true" />
+                <element signature="e#16274#16275#0" expanded="true" />
+                <element signature="e#20045#20046#0" expanded="true" />
+                <element signature="e#21691#21692#0" expanded="true" />
+                <element signature="e#22624#22625#0" expanded="true" />
+                <element signature="e#22766#22767#0" expanded="true" />
+                <element signature="e#22921#22922#0" expanded="true" />
+                <element signature="e#23071#23072#0" expanded="true" />
+                <element signature="e#23226#23227#0" expanded="true" />
+                <element signature="e#23402#23403#0" expanded="true" />
+                <element signature="e#24165#24166#0" expanded="true" />
+                <element signature="e#24495#24496#0" expanded="true" />
+                <element signature="e#24626#24627#0" expanded="true" />
+                <element signature="e#26152#26153#0" expanded="true" />
+                <element signature="e#26958#26959#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/main/java/net/md_5/bungee/api/config/ListenerInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/packet/EntityEffect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protocol/src/main/java/io/github/waterfallmc/travertine/protocol/MultiVersionPacketV17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/DefinedPacket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/ProtocolConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/Varint21FrameDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>custom</find>
+      <find>Trav</find>
+      <find>ServerConnector</find>
+      <find>Connection reset by peer</find>
+      <find>Connection re</find>
+      <find>DownstreamBridge</find>
+      <find>Loaded Pl</find>
+      <find>modu</find>
+      <find>custom bui</find>
+      <find>Upstream</find>
+      <find>time</find>
+      <find>plugin</find>
+      <find>QuietException</find>
+      <find>Quiet</find>
+      <find>Kick</find>
+      <find>InitialHandler</find>
+      <find>is pi</find>
+      <find>Whoops</find>
+      <find>[ac</find>
+      <find>occurred</find>
+      <find>335</find>
+      <find>restart</find>
+      <find>vpn</find>
+      <find>Proto</find>
+      <find>StatusResponse</find>
+      <find>StatusRequest</find>
+      <find>LoginPayloadResponse</find>
+      <find>Handshake</find>
+      <find>EntityEffect</find>
+      <find>query</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\Documents\GitHub\Travertine\Travertine-Proxy\proxy</dir>
+      <dir>F:\Documents\GitHub\Travertine\Travertine-Proxy</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/DefinedPacket.java" />
+        <option value="$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/packet/Chat.java" />
+        <option value="$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/MinecraftDecoder.java" />
+        <option value="$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/MinecraftEncoder.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/connection/DownstreamBridge.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/connection/UpstreamBridge.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/ServerConnector.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/conf/Configuration.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/net/md_5/bungee/api/ServerConnectRequest.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/BungeeServerInfo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/todolist.txt" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/io/github/waterfallmc/waterfall/console/WaterfallConsole.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/BungeeCordLauncher.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/VPNDetection.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/Response.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/io/github/waterfallmc/waterfall/conf/WaterfallConfiguration.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/core/SenderInfo.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/core/IPingListener.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/core/ServerListMotdCommand.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/SettingsBungee.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/api/IServerListMotd.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/api/IServerListMotdBase.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/api/ISettings.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/api/ServerListMotdBungeeAPI.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/util/ProxiedSenderInfo.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/listener/PostLoginListener.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/listener/ProxyPingListener.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/command/ServerListMotdBungeeCommand.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/command/ServerListMotdBungeeCommandBase.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/ServerListMotdBungeeBase.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/core/Settings.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/core/ServerListMotdPlugin.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/ServerListMotdBungeePlugin.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/metrics/MetricsLite.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/connection/InitialHandler.java" />
+        <option value="$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/packet/EntityEffect.java" />
+        <option value="$PROJECT_DIR$/protocol/src/main/java/io/github/waterfallmc/travertine/protocol/MultiVersionPacketV17.java" />
+        <option value="$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/Protocol.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/BungeeCord.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-7" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+              <item name="packet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arsenal-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travertine-Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BungeeCordLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.md_5.bungee.BungeeCordLauncher" />
+      <module name="travertine-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.md_5.bungee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BungeeCordLauncher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13e36304-7dfa-4721-a09a-f008c681ea5b" name="Default Changelist" comment="" />
+      <created>1562642672349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562642672349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-7" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Floobits" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4533762" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3290461" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4533762" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290461" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/command/ServerListMotdBungeeCommand.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/command/ServerListMotdBungeeCommandBase.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6708.30270/ServerListMotdSpigotAPI.class" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/core/ServerListMotdCommand.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/core/Settings.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/core/ServerListMotdPlugin.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6708.45874/MetricsLite.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6708.48020/MetricsLite$1.class" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/metrics/MetricsLite.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/ServerListMotdBungeePlugin.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/motd/ServerListMotdBungeeBase.java" />
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/net/md_5/bungee/api/plugin/Plugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/net/md_5/bungee/api/ServerPing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17884.49519/Protocol.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17884.49901/Protocol$ProtocolMapping.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17884.49955/Protocol$ProtocolData.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17884.005/Protocol$DirectionData.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17884.056/Protocol$4.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17884.108/Protocol$3.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17884.215/Protocol$1.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17884.163/Protocol$2.class" />
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/net/md_5/bungee/api/plugin/PluginManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="199" column="67" selection-start-line="199" selection-start-column="67" selection-end-line="199" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/Response.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/arsenalnetwork/VPNDetection.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/connection/InitialHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="657" column="5" selection-start-line="657" selection-start-column="5" selection-end-line="657" selection-end-column="5" />
+          <folding>
+            <element signature="e#3687#3688#0" expanded="true" />
+            <element signature="e#3729#3730#0" expanded="true" />
+            <element signature="e#23577#23578#0" expanded="true" />
+            <element signature="e#23645#23646#0" expanded="true" />
+            <element signature="e#24385#24386#0" expanded="true" />
+            <element signature="e#24467#24468#0" expanded="true" />
+            <element signature="e#24530#24531#0" expanded="true" />
+            <element signature="e#24574#24575#0" expanded="true" />
+            <element signature="e#24622#24623#0" expanded="true" />
+            <element signature="e#24651#24652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2656.33124/Protocol.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2656.34684/Protocol$DirectionData.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2656.34002/Protocol$1.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2656.34256/Protocol$2.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2656.34550/Protocol$3.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2656.34620/Protocol$4.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa912.45944/EntityEffect.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa912.14466/MultiVersionPacketV17.class" />
+    <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/PacketWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6528.9817/Bootstrap.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6528.14306/EntityEffect.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11600.38766/Protocol$3.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11600.38829/Protocol$4.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11600.36363/Protocol$1.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11600.36730/Protocol$2.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa16704.35241/Protocol$1.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa16704.35340/Protocol$2.class" />
+    <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/Protocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="100" column="48" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/packet/EntityEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protocol/src/main/java/io/github/waterfallmc/travertine/protocol/MultiVersionPacketV17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/DefinedPacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/ProtocolConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protocol/src/main/java/net/md_5/bungee/protocol/Varint21FrameDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/query/src/main/java/net/md_5/bungee/query/RemoteQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/net/md_5/bungee/api/config/ListenerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/net/md_5/bungee/BungeeCord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="354" column="29" selection-start-line="354" selection-start-column="29" selection-end-line="354" selection-end-column="29" />
+          <folding>
+            <element signature="e#16223#16224#0" expanded="true" />
+            <element signature="e#16274#16275#0" expanded="true" />
+            <element signature="e#20045#20046#0" expanded="true" />
+            <element signature="e#21691#21692#0" expanded="true" />
+            <element signature="e#22624#22625#0" expanded="true" />
+            <element signature="e#22766#22767#0" expanded="true" />
+            <element signature="e#22921#22922#0" expanded="true" />
+            <element signature="e#23071#23072#0" expanded="true" />
+            <element signature="e#23226#23227#0" expanded="true" />
+            <element signature="e#23402#23403#0" expanded="true" />
+            <element signature="e#24165#24166#0" expanded="true" />
+            <element signature="e#24495#24496#0" expanded="true" />
+            <element signature="e#24626#24627#0" expanded="true" />
+            <element signature="e#26152#26153#0" expanded="true" />
+            <element signature="e#26958#26959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>GriefPrevention</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>travertine-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.flowpowered:flow-nbt:1.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

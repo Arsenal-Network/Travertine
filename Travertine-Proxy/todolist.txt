@@ -1,0 +1,23 @@
+
+TODO LIST! Things to fix!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[18:00:03 WARN]: [/101.100.131.139:31298] <-> InitialHandler - NativeIoException: syscall:read(..) failed: Connection reset by peer
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[18:00:01 WARN]: No client connected for pending server!
+[18:00:01 ERROR]: [stealthyaf|/81.204.186.249:63478] <-> ServerConnector [colony] - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during server login process!
+0d02
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[18:00:01 INFO]: [/71.206.191.229:59307] <-> InitialHandler is pinging
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[18:04:17 WARN]: [/84.50.132.180:63085|Electrovolt] -> UpstreamBridge - NativeIoException: syscall:read(..) failed: Connection reset by peer
+[18:04:17 INFO]: [Electrovolt] disconnected with: NativeIoException : syscall:read(..) failed: Connection reset by peer @ io.netty.channel.unix.FileDescriptor:-1
+
+------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+name: cmd_send
+main: net.md_5.bungee.module.cmd.send.PluginSend
+version: git:cmd_send:1.14-SNAPSHOT:a21445c:unknown
+description: Provides the gsend command
+author: WaterfallMC
